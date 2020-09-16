@@ -26,7 +26,7 @@ function generateMarkdown(answers) {
     like to contact me directly, I can be reached at:
 
     ${answers.email}
-
+git 
     You can find more examples of my work at:
 
     https://github.com/${answers.github}
